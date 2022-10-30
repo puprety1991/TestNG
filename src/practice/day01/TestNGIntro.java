@@ -1,4 +1,4 @@
-package practice.class01;
+package practice.day01;
 
 import org.testng.annotations.Test;
 
